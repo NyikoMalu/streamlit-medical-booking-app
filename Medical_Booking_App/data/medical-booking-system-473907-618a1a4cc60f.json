@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "medical-booking-system-473907",
+  "private_key_id": "618a1a4cc60f260c181a4424b7ae5391a9cb2df9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7PQm7rOoP6d/n\nXOL7FPtg06mpXL7UPHTMW00Hcasrjd7/BxG5S8vqgg4dbrsSzPwqQ8v9pRvScPdO\nBfXH7Fiu6zqTbg+FkJiwAD183VOdjw0RvHCYOILmllvpynDSK8kq/xZ+FmElotaN\nh8JvBlJRdsfroC4xv/pgt/od3L8CewdUyaQB/090TAg1P0bZhjGvW1WNohA0mqyd\nmAiO80eymeeLbnlwJUQEfJFd/PMIJPmdXVWg7R5WOwqWoZ5B8v/MxYfqP846mFU1\nPwgAwjs80maDnsTaQNEgAzrXbueBzXyJJ9gzQ0mHc2WUzHj7Irg3aF+jywzdsH6S\nMKVyQ6PTAgMBAAECggEAK/F+WEqTwFpeTzlwmAbrnGTwu6vlqX/q1Y9T+7xEtPsd\n6/KnyTotyILvdx7mztnHENBKjuPyLKiQkgI6Fcq1YZAZdkJtaCZwf1X/GFAFcMQD\nCDeWoVMZ/a4qMitt4RWfp/SoPb1Y3XFjM2I6Ur5EEZR0BSvZy5lH1O04yUtmlNkN\nAFveXYBPOe4NUmsb+jBdGn39/e7xLnm44sBj2UZx4K+ldwhz5mIwv45OHOn9y1ow\ncKWDgAWlbGNVDSTYi/jkUmDT4Kmic78rsTk+gXbKSW1kAYI6x9U8kLb37wy8eZen\nv5VCpFfQMsrcVPjVndyJ97pKZI6+OcM5zRwn+giIcQKBgQD+9bEN4kCREko6SeIb\n3aXCJvjRHhv9u8MIxU2Dv6TqDlaRVz2JD1Yk07bxUttwcCj5C1Dk/jX+9e/0Id/y\nqWvLUJcSOLRE4lFMPWqz2mAkIjnjkwXJIflD8dRJC4SVLuCNycOX+pR+JV2mLu5U\n4QEn49w7IlR8MwA+HhfzJudd+QKBgQC8AJxYHokWl3IuC/qUVbtD1AeiLfbmOb8z\nZAdeBLYnmMDc0z3jmS400K+PlDmdiNJyInf1C6+gGX6ClWng+dI22BHthYNt03tj\ntEGVdyrz/44Ew5aqOu8VHK6GpIqTuqGuCDmnxRENFU48KdjWpXiqCWlBRNgAjiuB\n14LiF7BzKwKBgQCVaVoW7s4zteo1+nI9LkkjXD9YHTL+IPiMvUNNwBNe7oQgrGVt\nWsV6029UQOBEJhZ8y/reF3OBNJMoGGnrBQocnd/KV9ycuZw2947+Uy0gP8Z47QHo\n+rXe8WscW1mZK12A+gpbmAdJXZBiAQK+TxWkUM4RAW9NUX4E6RHT9qqD0QKBgFSh\neb/5TwEKf+3WmqC3zysDgcQyKNkO2dGKj/505IMCsp81wMB6LmC8KKvbr+wIsaOL\nfLCk6BSMJXUnSZhrHYRu0/M2jSmdcAg8FuHv2TgprIbcfTB4gzPfy3j1DSTfePTc\n4wdxIPHgy20t8Vz+9EinH+iv0wS8+zziBRs+SsItAoGBAL8yF/zdgeUpXg/cGXeD\nb3yFbSaPiccnyePZjsJYXLNHT0VXgZmfCoU2vfmaGxZm6G/4I593d4WRlYyjIbMI\nrXp4LVzACz8ORqyTmPKPz8wf4PLjZM8EVn3sMfu+b5Mnkva0pMf5EWiLSaepO+2K\nNS5qZ863I/dDgU6jgrGdkz3y\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-medical-booking@medical-booking-system-473907.iam.gserviceaccount.com",
+  "client_id": "104625597940461880456",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-medical-booking%40medical-booking-system-473907.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

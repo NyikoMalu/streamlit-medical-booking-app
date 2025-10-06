@@ -1,0 +1,16 @@
+AppointmentID,PatientID,SpecialistID,DateKey,TimeSlotID,Status
+1,10,2,20250321,3,Booked
+2,3,4,20250315,3,Booked
+3,5,3,20250311,4,Completed
+4,4,1,20250318,4,Cancelled
+5,8,1,20250710,3,Booked
+6,4,4,20250823,2,Completed
+7,6,2,20250621,4,Cancelled
+8,6,4,20250410,1,Booked
+9,5,4,20250625,1,Completed
+10,10,3,20250219,2,Cancelled
+11,7,5,20250107,4,Completed
+12,9,5,20250206,3,Cancelled
+13,10,5,20250403,2,Booked
+14,9,4,20250707,4,Booked
+15,9,3,20250524,1,Completed
